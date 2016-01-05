@@ -1,1 +1,3 @@
-# Visualistik_sose2015
+# Visualistik
+My first repository on GitHub
+I love :coffee: :pizza:, and :dancer:
